@@ -39,7 +39,7 @@ body{
     border-radius: 50px;
     display: flex;
     flex-wrap: wrap;
-    padding-top: 1vh;
+    padding-top: 1vw;
     padding-left: 10px;
     padding-right: 10px;
 }
@@ -51,7 +51,7 @@ body{
     border-radius: 50px;
     display: flex;
     flex-wrap: wrap;
-    padding-top: 25px;
+    padding-top: 1vw;
     padding-left: 10px;
     padding-right: 10px;
 }
@@ -65,8 +65,15 @@ body{
 .dot{
     flex-grow: 1;
     height: calc(100%/3);
-    margin: 20px;
+    margin-left: 1.5vw;
+    margin-right: 1.5vw;
+    margin-top: 1.5vw;
     background-color: white;
     border-radius: 50%;
+
+}
+
+.point-2, .point-8{
+    opacity: 0;
 }
 

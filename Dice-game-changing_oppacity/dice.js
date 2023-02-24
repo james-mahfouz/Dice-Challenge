@@ -62,5 +62,7 @@ window.onload = function(){
         if (number == 6){
             point_4[dice].style.opacity = "0";
         }
-    }      
+    }    
+    
+    
 }
