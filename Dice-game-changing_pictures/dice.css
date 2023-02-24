@@ -35,12 +35,13 @@ body{
 .dice-1{
     width: 20vw;
     height: 20vw;
-    border-radius: 50px;
 }
 
 .dice-2{
     width: 20vw;
     height: 20vw;
-    border-radius: 50px;
 }
 
+#first_dice, #second_dice{
+    border-radius: 10%;
+}
