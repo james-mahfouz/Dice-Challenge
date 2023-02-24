@@ -27,7 +27,6 @@ body{
     margin: 0 100px;
 }
 
-
 .dices > div > h4{
     font-size: 3rem;
     text-align: center;
@@ -40,7 +39,7 @@ body{
     border-radius: 50px;
     display: flex;
     flex-wrap: wrap;
-    padding-top: 25px;
+    padding-top: 1vh;
     padding-left: 10px;
     padding-right: 10px;
 }
@@ -70,3 +69,4 @@ body{
     background-color: white;
     border-radius: 50%;
 }
+
